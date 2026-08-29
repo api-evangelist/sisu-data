@@ -31,6 +31,9 @@ description: Sisu Data was an a16z-backed augmented-analytics / decision-intelli
   announcement, and its TLS certificate expired in November 2024. No public API surface exists to
   enrich; this profile is retained as an a16z portfolio record only.
 url: https://raw.githubusercontent.com/api-evangelist/sisu-data/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API surface exists to enrich; this profile is retained as an a16z portfolio record only."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
